@@ -1,6 +1,8 @@
 import java.util.*;
 /*
-authot: Ashish Waykar
+
+author: Ashish Waykar
+
 */
 public class SpellingChecker {
 
