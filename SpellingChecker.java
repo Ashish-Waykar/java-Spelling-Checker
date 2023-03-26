@@ -1,5 +1,7 @@
 import java.util.*;
-
+/*
+authot: Ashish Waykar
+*/
 public class SpellingChecker {
 
     // A dictionary of correctly spelled words
